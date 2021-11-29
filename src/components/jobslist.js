@@ -38,11 +38,11 @@ const JobsList = () => {
 
   if(ln === 'en')
   {
-      color = 'thead-dark'
+      color = "thead-dark"
   }
   else if(ln === 'es')
   {
-      color = 'thead-light'
+      color = "thead-light"
   }
 
   return (
